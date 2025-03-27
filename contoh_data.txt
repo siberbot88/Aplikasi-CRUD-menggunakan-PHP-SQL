@@ -1,0 +1,119 @@
+    211402001
+
+        Nama: Ahmad Fauzi
+
+        Fakultas: Teknik
+
+        Jurusan: Informatika
+
+        Kelas: TI-01
+
+        Telepon: 081234567890
+
+    211402002
+
+        Nama: Bella Putri
+
+        Fakultas: Ekonomi
+
+        Jurusan: Manajemen
+
+        Kelas: MN-02
+
+        Telepon: 082345678901
+
+    211403003
+
+        Nama: Citra Dewi
+
+        Fakultas: Kedokteran
+
+        Jurusan: Pendidikan Dokter
+
+        Kelas: KD-03
+
+        Telepon: 083456789012
+
+    211404004
+
+        Nama: Dito Pratama
+
+        Fakultas: Hukum
+
+        Jurusan: Ilmu Hukum
+
+        Kelas: HK-04
+
+        Telepon: 084567890123
+
+    211405005
+
+        Nama: Eka Sari
+
+        Fakultas: Pertanian
+
+        Jurusan: Agroteknologi
+
+        Kelas: AG-05
+
+        Telepon: 085678901234
+
+    211406006
+
+        Nama: Farhan Maulana
+
+        Fakultas: Teknik
+
+        Jurusan: Elektro
+
+        Kelas: EL-06
+
+        Telepon: 086789012345
+
+    211407007
+
+        Nama: Gita Wulandari
+
+        Fakultas: Psikologi
+
+        Jurusan: Psikologi Klinis
+
+        Kelas: PS-07
+
+        Telepon: 087890123456
+
+    211408008
+
+        Nama: Hendra Kurniawan
+
+        Fakultas: Ilmu Sosial
+
+        Jurusan: Sosiologi
+
+        Kelas: SO-08
+
+        Telepon: 088901234567
+
+    211409009
+
+        Nama: Indah Permata
+
+        Fakultas: Seni Rupa
+
+        Jurusan: Desain Komunikasi Visual
+
+        Kelas: DK-09
+
+        Telepon: 089012345678
+
+    211410010
+
+        Nama: Joko Santoso
+
+        Fakultas: Teknik
+
+        Jurusan: Sipil
+
+        Kelas: SI-10
+
+        Telepon: 081122334455
